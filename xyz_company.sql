@@ -13,3 +13,7 @@ Values
 (3, "Casey", 40000);
 
 Select * from Employee;
+
+#learning Where
+
+selct * from Employee where Salary>=30000;
